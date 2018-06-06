@@ -25,6 +25,6 @@ Use Kruskal-Wallis on all set of variables to test for differences accross prote
 
 ### 3.2. Models (glm Poisson, beta-regression, linear model)
 Use model on natural wetlands loss, beta-Sorensen and Simpson diversity to test for influence from different variables.\
-***Code:** *
+***Code:** 4.Models.R*
 
 ## IV. Figures
