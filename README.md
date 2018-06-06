@@ -1,4 +1,4 @@
-# Wetland_paper
+# Code for Leberger et al., 2018. Mediterranean wetland conservation in the context of climate and land use change.
 
 ## I. Climate data processing from Chelsa https://www.wsl.ch/lud/chelsa/data/timeseries/
 
