@@ -4,17 +4,17 @@
 
 ### 1. Download monthly climate data
 Download prec, tmax, tmin, and tmean from 1986 to 1995 and from 2001 to 2010.\
-Code: 1.1.Download_climate_data.txt
+*Code: 1.1.Download_climate_data.txt*
 
 ### 2. Process climate data
 Use the download variables to generate the yearly variables : tmean, tmax, tmin, tseas, pmean, pdry, pwet, pseas.\
-Code: 1.2.Process_climate_data.txt
+*Code: 1.2.Process_climate_data.txt*
 
 ## II. Land-cover processing?... (depends on which kind of data will be provided)
 
 ## II. Partial Triadic Analysis (PTA)
-Climatic PTA: 2.1.PTA_climate.txt\
-Land-cover PTA: 2.2.PTA_land_cover.txt\
+Climatic PTA: *2.1.PTA_climate.txt*\
+Land-cover PTA: *2.2.PTA_land_cover.txt*
 
 ## III. Statistics and models
 
