@@ -13,9 +13,9 @@ Use the download variables to generate the yearly variables : tmean, tmax, tmin,
 ## II. Land-cover processing?... (depends on which kind of data will be provided)
 
 ## II. Partial Triadic Analysis (PTA)
-Climatic PTA: *2.1.PTA_climate.R*\
-Land-cover PTA: *2.2.PTA_land_cover.R*\
-Climatic and Land-cover PTA: *2.3.PTA_clim_lc.R*
+**Climatic PTA:** *2.1.PTA_climate.R*\
+**Land-cover PTA:** *2.2.PTA_land_cover.R*\
+**Climatic and Land-cover PTA:** *2.3.PTA_clim_lc.R*
 
 ## III. Statistics and models
 
