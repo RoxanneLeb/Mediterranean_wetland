@@ -1,1 +1,11 @@
 # Wetland_paper
+
+## I. Climate data processing from Chelsa https://www.wsl.ch/lud/chelsa/data/timeseries/
+
+## II. Statistics and models
+
+### 1. Kruskal-Wallis tests
+
+### 2. Models (glm Poisson, beta-regression, linear model)
+
+## III. Figures
