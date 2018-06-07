@@ -9,7 +9,7 @@
 # more powerfull than Dunn test and difference of distribution between classes does not matter
 
 ## Load data
-tab1 <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all.txt', h=T)
+tab1 <- read.table('../Data/Table_all.txt', h=T)
 head(tab1)
 summary(tab1)
 
