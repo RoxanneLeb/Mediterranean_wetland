@@ -1,5 +1,5 @@
 
-## 06/2018 - Leberger et al. 2018. Mediterranean wetland conservation in the context of lcate and land-cover change.
+## 06/2018 - Leberger et al. 2018. Mediterranean wetland conservation in the context of climate and land-cover change.
 
 
 ### 2.2. Land-cover PTA (Partial Triadic Analysis)
