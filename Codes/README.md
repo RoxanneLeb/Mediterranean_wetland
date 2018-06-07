@@ -18,16 +18,16 @@ Use the download variables to generate the yearly variables : tmean, tmax, tmin,
 **Land-cover PTA:** *2.2.PTA_land_cover.R*\
 **Climatic and Land-cover PTA:** *2.3.PTA_clim_lc.R*
 
-## III. Statistics and models
+## III. Statistics: Kruskal-Wallis tests
 
-### 3.1. Kruskal-Wallis tests
 Use Kruskal-Wallis on all set of variables to test for differences accross protection coverage classes.\
 ***Code:** 3.Kruskal_Wallis_PAs.R*
 
-### 3.2. Models (glm Poisson, beta-regression, linear model)
+## IV. Models: glm Poisson, beta-regression, linear model
+
 Use model on natural wetlands loss, beta-Sorensen and Simpson diversity to test for influence from different variables.\
 **Natural wetlands:** *4.1.Model_Natwet_glm.R*\
 **Beta-Sorensen:** *4.2.Model_BetaSor_betareg.R*\
 **Simpson diversity:** *4.3.Model_SimpDiv_lm.R*
 
-## IV. Figures
+## V. Figures
