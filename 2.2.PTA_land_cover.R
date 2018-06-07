@@ -10,7 +10,7 @@
 #---
 
 # Load land-cover data (1990 and 2005)
-table_all <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all.txt', h=T)
+table_all <- read.table('Table_all.txt', h=T)
 
 # Table overview
 dim(table_all)
@@ -135,5 +135,5 @@ vtab_lc <- data.frame(table_all$id, vect_tab, table_all$pa_cover_cat)
 colnames(vtab_lc) <- c('id', 'vect_lc', 'pa_level')
 head(vtab_lc, 10)
 
-# write.table(vtab_lc, '/Users/localadmin/Documents/PhD/Paper3_Wetlands/results_236_hydro/pta/PTA_lc.txt')
+# write.table(vtab_lc, 'PTA_lc.txt')
 
