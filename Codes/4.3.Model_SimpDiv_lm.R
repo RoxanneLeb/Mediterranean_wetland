@@ -23,11 +23,8 @@ div_poc2 <- change_tab$div_poc[change_tab$div_poc < 2] # remove outliers
 #---
 
 lm_tmean2 <- lm(div_poc2 ~ change_tab $tmean_diff[change_tab $div_poc < 2])
-
-hist(residuals(lm_tmean2), breaks=100)
-
 summary(lm_tmean2)
-Call:
+#Call:
 # lm(formula = div_poc2 ~ change_tab$tmean[change_tab$div_poc < 
     # 2])
 
@@ -47,6 +44,7 @@ Call:
 
 AIC(lm_tmean2) # 48.35372
 
+hist(residuals(lm_tmean2), breaks=100)
 
 ## 2. Pmean diff
 #---
