@@ -10,7 +10,7 @@
 #---
 
 # Load climate data (representative from 1990 and from 2005)
-table_all <- read.table('Table_all.txt', h=T)
+table_all <- read.table('../Data/Table_all.txt', h=T)
 
 # Table overview
 dim(table_all)
