@@ -10,7 +10,7 @@
 #---
 
 # Load climate data (representative from 1990 and from 2005)
-table_all <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all.txt', h=T)
+table_all <- read.table('Table_all.txt', h=T)
 
 # Table overview
 dim(table_all)
@@ -103,5 +103,5 @@ vtab_clim <- data.frame(table_all$id, vect_tab, table_all$pa_cover_cat)
 colnames(vtab_clim) <- c('id', 'vect_clim', 'pa_level')
 head(vtab_clim, 10)
 
-# write.table(vtab_clim, '/Users/localadmin/Documents/PhD/Paper3_Wetlands/results_236_hydro/pta/pta_climlim.txt')
+# write.table(vtab_clim, 'pta_clim.txt')
 
