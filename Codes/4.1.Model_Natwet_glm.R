@@ -6,7 +6,7 @@
 ### 4.1. Natural wetland response to several variables using glm Poisson
 ###############################################
 
-change_tab <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all.txt', h=T)
+change_tab <- read.table('../Data/Table_all.txt', h=T)
 head(change_tab)
 
 ## Transform Natural wetland to apply poisson distribution: Natural wetland loss
