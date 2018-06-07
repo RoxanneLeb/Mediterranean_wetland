@@ -6,7 +6,7 @@
 ###############################################
 
 # Load table
-change_tab <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all.txt', h=T)
+change_tab <- read.table('../Data/Table_all.txt', h=T)
 head(change_tab)
 
 # Replacement of 0 and 1 values by very closed ones in Beta_sor_1991_2010 to apply the betareg function ]0:1[
