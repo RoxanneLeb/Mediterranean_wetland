@@ -19,7 +19,7 @@ Use the download variables to generate the yearly variables : tmean, tmax, tmin,
 ## III. Statistics: Kruskal-Wallis tests
 
 Use Kruskal-Wallis on all set of variables to test for differences accross protection coverage classes.\
-***Code:*** \*3.1.Kruskal_Wallis_PAs.R*\ *3.1.Kruskal_Wallis_location.R*
+***Code:***\ *3.1.Kruskal_Wallis_PAs.R*\ *3.2.Kruskal_Wallis_location.R*
 
 ## IV. Models: glm Poisson, beta-regression, linear model
 
