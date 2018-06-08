@@ -29,4 +29,4 @@ Use model on natural wetlands loss, beta-Sorensen and Simpson diversity to test 
 **Simpson diversity:** *4.3.Model_SimpDiv_lm.R*
 
 ## V. Figures
-*5.Fig.S5.boxplot_KW_location.R*
+*5.FigS5_boxplot_KW_location.R*
