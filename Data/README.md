@@ -30,7 +30,7 @@ wettest mounth:\
 pwet_diff = pwet_2005 - pwet_1990
 
 
-### II. Species variables
+## II. Species variables
 
 Species Richness (poc = percentage of change):\
 SR_poc = (SR_2005 - SR_1990)/SR_1990
@@ -51,7 +51,7 @@ Betadiversity Sorrensen:\
 Beta_sor_1991_2010 : betadiversity computed between 1991-1995 and 2006-2010 periods
 
 
-### III. Land-use
+## III. Land-use
 
 Urbanisation (poc = percentage of change)\
 Urb_poc = (Urb_2005 - Urb_1990)/Urb_1990 (Urb unit = km)
